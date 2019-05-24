@@ -20,7 +20,3 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-#控制台查看SQL执行状况
-logging:
-  level:
-    com.yurui.rediscache: debug
